@@ -1,6 +1,6 @@
 # Pumpkin pie recipe
 
-chocolate
+cheese
 ## Preparation
 
 - Remove seeds
